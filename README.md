@@ -26,10 +26,10 @@ The primary data source for this project includes Zomato restaurant information 
 
 ## Key Visualizations:
 
->  Overall Summary Tiles: Total restaurants, total countries, total cuisines, total votes, average rating.
->  Country List: Filter restaurants by country.
->  City-Wise Restaurant Count: Top cities with the most restaurants.
->  Cuisine-Wise Count: Popular cuisines based on the number of restaurants serving them.
->  Online Delivery & Table Booking: Pie charts showing how many restaurants offer these services.
->  Restaurant Ratings: Distribution of ratings in buckets (1-2, 2-3, 3-4, 4-5).
+1.  Overall Summary Tiles: Total restaurants, total countries, total cuisines, total votes, average rating.
+2.  Country List: Filter restaurants by country.
+3.  City-Wise Restaurant Count: Top cities with the most restaurants.
+4.  Cuisine-Wise Count: Popular cuisines based on the number of restaurants serving them.
+5.  Online Delivery & Table Booking: Pie charts showing how many restaurants offer these services.
+6.  Restaurant Ratings: Distribution of ratings in buckets (1-2, 2-3, 3-4, 4-5).
 
