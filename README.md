@@ -5,10 +5,10 @@ This repository showcases a comprehensive Power BI project analyzing Zomato rest
 
 This project aims to:
 
-1.Analyze Zomato restaurant data for various countries, cities, and cuisines.
-2.Visualize key metrics (e.g., number of restaurants, average rating, availability of online delivery, and table booking).
-3.Identify patterns in restaurant ratings, cuisine popularity, and user engagement features.
-4.Provide insights that can inform marketing strategies, operational decisions, and user experience improvements.
+1. Analyze Zomato restaurant data for various countries, cities, and cuisines.
+2. Visualize key metrics (e.g., number of restaurants, average rating, availability of online delivery, and table booking).
+3. Identify patterns in restaurant ratings, cuisine popularity, and user engagement features.
+4. Provide insights that can inform marketing strategies, operational decisions, and user experience improvements.
 
 ## Data Sources
 
