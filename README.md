@@ -14,22 +14,22 @@ This project aims to:
 
 The primary data source for this project includes Zomato restaurant information such as:
 
-1.Countries and Cities where restaurants operate.
-2.Restaurant details like name, cuisines, average cost, ratings, and other engagement features (online delivery, table booking).
-3.Time-based data for deeper analysis (e.g., year, quarter, month).
+1. Countries and Cities where restaurants operate.
+2. Restaurant details like name, cuisines, average cost, ratings, and other engagement features (online delivery, table booking).
+3. Time-based data for deeper analysis (e.g., year, quarter, month).
 
 ## Key Insights
-1.Restaurant Distribution: India has the highest number of restaurants, followed by other major countries like India and the United Kingdom.
-2.Cuisines Popularity: North Indian and Chinese cuisines rank among the top offerings.
-3.Online Delivery & Table Booking: A significant portion of restaurants do not offer online delivery, indicating an opportunity for market expansion.
-4.Ratings: Most restaurants cluster in the 3-4 rating range, suggesting room for improvement in service quality or user experience.
+1. Restaurant Distribution: India has the highest number of restaurants, followed by other major countries like India and the United Kingdom.
+2. Cuisines Popularity: North Indian and Chinese cuisines rank among the top offerings.
+3. Online Delivery & Table Booking: A significant portion of restaurants do not offer online delivery, indicating an opportunity for market expansion.
+4. Ratings: Most restaurants cluster in the 3-4 rating range, suggesting room for improvement in service quality or user experience.
 
 ## Key Visualizations:
 
-> Overall Summary Tiles: Total restaurants, total countries, total cuisines, total votes, average rating.
-> Country List: Filter restaurants by country.
-> City-Wise Restaurant Count: Top cities with the most restaurants.
-> Cuisine-Wise Count: Popular cuisines based on the number of restaurants serving them.
-> Online Delivery & Table Booking: Pie charts showing how many restaurants offer these services.
-> Restaurant Ratings: Distribution of ratings in buckets (1-2, 2-3, 3-4, 4-5).
+>  Overall Summary Tiles: Total restaurants, total countries, total cuisines, total votes, average rating.
+>  Country List: Filter restaurants by country.
+>  City-Wise Restaurant Count: Top cities with the most restaurants.
+>  Cuisine-Wise Count: Popular cuisines based on the number of restaurants serving them.
+>  Online Delivery & Table Booking: Pie charts showing how many restaurants offer these services.
+>  Restaurant Ratings: Distribution of ratings in buckets (1-2, 2-3, 3-4, 4-5).
 
